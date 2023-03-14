@@ -1,4 +1,4 @@
-<img src="/image/Photo.png" alt="Photo" width="20%"/>
+<img src="./image/Photo.png" alt="Photo" width="20%"/>
 
 # Anevich Kristina
 ### Front&ndash;end developer
