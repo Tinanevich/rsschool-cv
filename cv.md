@@ -33,3 +33,8 @@ I have basic knowledge of JavaScript, CSS, HTML. Ready to implement solutions th
 __Help Pet, Almaty__
 Participation in a charity project to create a pet&ndash;shelter site for homeless animals as a Junior Frontend developer
  * Interaction with the team in Notion
+ * Adaptive layout of HTML pages by Figma layout
+ * Connecting SCSS styles
+ * Working with Git, Git&ndash;flow
+ * Learning React
+ * Working with components JS function
