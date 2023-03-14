@@ -1,1 +1,0 @@
-https://Tinanevich.github.io/rsschool-cv
