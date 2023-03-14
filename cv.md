@@ -26,11 +26,13 @@ I have basic knowledge of JavaScript, CSS, HTML. Ready to implement solutions th
 
 ### Education
  * IT Academy I Front–end developer [certificate](https://yadi.sk/i/_nPQ5e1U48JGlw)
+
  Developed a website for the provision of cosmetic services using layout HTML&frasl;CSS and JavaScript. Created a form for user input in JavaScript. Included Bootstrap styles. Implemented block rubber layout and adaptive layout. Implemented animation for social media icons. This project can be seen on my [GitHub](https://github.com/Tinanevich)
  * Belarusian State Technological University Economist&ndash;manager
 
 ### Experience
 __Help Pet, Almaty__
+
 Participation in a charity project to create a pet&ndash;shelter site for homeless animals as a Junior Frontend developer
  * Interaction with the team in Notion
  * Adaptive layout of HTML pages by Figma layout
