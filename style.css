@@ -142,6 +142,10 @@
     vertical-align: middle;
 }
 
+.imgSlide {
+    width: 100%;
+}
+
 .slideshow-container {
     max-width: 80%;
     position: relative;
